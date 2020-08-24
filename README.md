@@ -56,7 +56,7 @@ apt update ; apt install git curl php openssh -y ; git clone https://github.com/
 
 ## Find Me on :
 [![Github](https://img.shields.io/badge/Github-THE-RG-CHOICE-green?style=for-the-badge&logo=github)](https://github.com/thergchoice)
-[![Instagram](https://img.shields.io/badge/RG-%40Rakesh.Garai-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/oreo.rakeh)
+[![Instagram](https://img.shields.io/badge/RG-%40Rakesh.Garai-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/oreo.rakesh)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)
 
 #### Docker Added !!  Checkout `docker-legacy` branch
